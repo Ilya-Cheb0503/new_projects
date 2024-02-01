@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "divine-climate-413017",
+  "private_key_id": "9dd15cfe0e7d0ccb6165342b05a52d090cd60f21",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcSctbIaBpMDho\n9/42DAjoLFsFX2Xa7bjECB9hCBVrleyL1nLXVW+jytypsZzGsvVIh1ZckcBa2B6y\nNhhqhnl5Dp7PIyQeEs8FSt17i+RwB9w0VMrHUk/zuF+LyHufIaCj7D0ImtX8TcIL\nfe4z7wJmUjfFhncD/uXpSwbTeNUphJkDcF8XQIU6rpzKDd8UR+NLssTWFxMOcs73\nrL35dUKP1WkwXKxvKizFPhjwiI7mR8nywqtHHsmIbon23/XHKPdgMvdiBaMRLlRt\n5IqszmlxcpUnyqL821ZEVbWA0iJBseQwhTUr/q5lo3vD8FnV9xPFjpIofSNiCSFJ\nmd40ki1XAgMBAAECggEAA5vc5vyYGhsJxpzT76Ugfz1MGvOVPfj/DKBWV3D8UgSu\nc5sh6U6TkgKYWQOhp94qQdeCkVCALhRDDlZF9t5piQoNvnysIDA4kWk3sSRsBtZS\nrL4yr0MmMmGYBCqB17Ggcp6ntISQ3m21tBk6ui8tF5rD/JZZBaAlSgoNoy3U8LlI\n4vvwkk/0D7zla3e6MwOOQIa5ImGCj1kXMjWUk3D9mBmMOlGzOkDVtxuX4uA0HkR2\nKHk9UsQS2DbzPR/w5BAt6hrYrymfpdxTc9yfXppTlNBLoNjmtG40Nzee0nkWz6aW\nDvBXIH40YTFR95jyz4pfwJ4U7UuM7r4PiRos+h7WcQKBgQDRLMQZRVnBbipZ43PW\nphXsI0LobQP2QZkuEEZ17JwtMnr9FIOa//cPE1mOsJwp9eKZWcUkiQ1tiy6YRfH4\n3fAHp/CUKvKBfViJJxtM2JWrvAm4Qucw0HbXy/AMSOCIp5/ci6K+SriT9B3Q8L2J\nu8HExltFAftFON/beFi0IpiIcQKBgQC/Rj4uR4ULcL9Wgbra5GMCv4CGWyJlT8uM\nT8a78Ouc+M31mkFLYKIAWKdrfa6PrKScghHQ9wid1Jy8PgP/OOVGkxI9PW1BilWE\nfDOYcpJkUS8HtYqPjmACtOv0rL5UvCmgFRAIBBw1P9ms4IEcorW0P3uzZlCT8r1G\nGp/nYYS2RwKBgQDMQaaL9siatfTtKcpoBG7L0/L1+94ujggCjyn+5TnseKrYjzuk\nE+cw9XgyegtEfjL0BFEaSCqwmYS6dTLADhjhoQCv7vA3uirGY0WpWKVuuYPURqBz\nbl1ehGq31EJNr0HPnxsgLt7muy6SZULwSEQC3p8pV7IB+nO+YFpeLJo+QQKBgCXK\n5jxUq0gAZf3csiPP3nRLjER/u0MTSh+WH6lAx/0C+AbgDKitFjVFTwchFR2UOg4m\ncQi91rkAqltTUYzbHAoewwrQmUbK42zC8ZrcgGpL1CQMzazhr7y5LKnye8TYTM0x\nfDJpRX2L+SF8VmZnC8nqhTGENMWWv6kbV57rGMK/AoGAHz5aal/jSqNIW4Ao44gT\np0Aw9rF2vJIV0Z/Ilcw3VBHveREmoJRURWS62yqdjKLSChwCBaPYoJx+tOgr9jw7\n44ld1dy5yKttAf8K6thvIp3h5MnATTIB+C8KjHlYNt6YJCQWqR8M3k0xoQSaVFTM\nzMBY7nhCpY/UOM60/HZ76uk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "practicum-account@divine-climate-413017.iam.gserviceaccount.com",
+  "client_id": "111476136146848327312",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/practicum-account%40divine-climate-413017.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
